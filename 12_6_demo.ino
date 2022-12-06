@@ -1,4 +1,6 @@
+#include "Adafruit_Neopixel.h"
 
+Adafruit_Neopixel neopixel
 void setup() {
   // put your setup code here, to run once:
   
